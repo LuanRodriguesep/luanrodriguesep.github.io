@@ -1,0 +1,135 @@
+body {
+    font-family: sans-serif;
+    background-color: #252525;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+li {
+    list-style-type: none;
+}
+
+.sumario {
+    font-weight: bold;
+    
+}
+
+.name {
+    font-size: 3.6em;
+    color: #30C18C;
+    text-decoration: underline;
+}
+
+.foto{
+    border-radius: 50%;
+}
+
+.descricao {
+    font-family:cursive
+}
+
+.destaque {
+    color: #30C18C;
+    font-weight: bold;
+}
+
+.destaque-preto {
+    color: #000;
+    font-weight: bold;
+}
+
+.subtitulo {
+    font-size: 33px;
+    color: #30C18C;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+.contato {
+    font-family: cursive;
+
+}
+
+.contato img {
+    border-radius: 15px;
+}
+
+.soft li{
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 30px;
+}
+
+.hard li {
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 30px;
+}
+.empenho{
+    font-size: 25px;
+}
+.perseveranca{
+    font-size: 22px;
+}
+.comprometimento{
+    font-size: 28px;
+}
+.empatia{
+    font-size: 30px;
+}
+
+
+
+.blogs-canais li a{
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 30px;
+    
+}
+
+.blogs-canais li {
+    text-align: center;
+    margin-top: 5px;
+    
+}
+
+.shell{
+    font-size: 18px;
+}
+.git{
+    font-size: 15px;
+}
+.html{
+    font-size: 28px;
+}
+
+
+.trybe {
+background-color: #30C18C;
+width: 200px;
+border: #000 solid 3px;
+
+}
+
+.akitando {
+    background-color: #30C18C;
+    width: 200px;
+    border: #000 solid 3px;
+}
+.akita {
+    background-color: #30C18C;
+    width: 200px;
+    border: #000 solid 3px;
+}
+
+.stack {
+    background-color: #30C18C;
+    width: 200px;
+    border: #000 solid 3px;
+}
+
