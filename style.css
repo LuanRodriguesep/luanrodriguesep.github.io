@@ -90,6 +90,7 @@ li {
     color: #fff;
     line-height: 30px;
     
+    
 }
 
 .blogs-canais li {
@@ -113,6 +114,7 @@ li {
 background-color: #30C18C;
 width: 200px;
 border: #000 solid 3px;
+font-weight: bold;
 
 }
 
@@ -120,16 +122,19 @@ border: #000 solid 3px;
     background-color: #30C18C;
     width: 200px;
     border: #000 solid 3px;
+    font-weight: bold;
 }
 .akita {
     background-color: #30C18C;
     width: 200px;
     border: #000 solid 3px;
+    font-weight: bold;
 }
 
 .stack {
     background-color: #30C18C;
     width: 200px;
     border: #000 solid 3px;
+    font-weight: bold;
 }
 
